@@ -1,4 +1,4 @@
-![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `#c5f015`
+![alt text](https://github.com/thecodebuzz/FileSizePOC/blob/master/TheCodebuzz.png?raw=true)
 <h1 align="center">Hi 👋, I'm Hamada</h1>
 <h3 align="center">I am a full stack developer from Palestine</h3>
 
